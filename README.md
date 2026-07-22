@@ -20,4 +20,18 @@ This repository contains all the tasks completed during my AI & ML Internship at
 - Created GitHub repository
 - Executed first Python program
 
+
+# Day 2 - Python Basics
+
+## Topics Covered
+- Variables
+- Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+
+## Objective
+Understand the fundamentals of Python programming and implement simple programs using core Python concepts.
+
 More tasks will be added daily.
