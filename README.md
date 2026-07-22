@@ -21,7 +21,7 @@ This repository contains all the tasks completed during my AI & ML Internship at
 - Executed first Python program
 
 
-# Day 2 - Python Basics
+### Day 2 - Python Basics
 
 ## Topics Covered
 - Variables
