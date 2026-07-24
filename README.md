@@ -68,3 +68,29 @@ The objective of this task is to understand the fundamentals of NumPy, including
 
 By completing this task, I gained practical experience working with NumPy arrays and learned how to perform numerical computations efficiently using Python.
 
+### Day 4 - Student Score Dataset Exploration
+
+## Objective
+
+Load the Student Score dataset using Pandas and explore its structure before data preprocessing.
+
+## Topics Covered
+
+- Importing Pandas
+- Loading CSV Dataset
+- Displaying Rows
+- Dataset Shape
+- Column Names
+- Dataset Information
+- Statistical Summary
+- Missing Values
+- Duplicate Values
+
+## Files
+
+- `Day-4_Pandas_Exploration.ipynb`
+- `student_scores.csv`
+
+## Learning Outcome
+
+Learned how to load and inspect a dataset using Pandas. Explored the dataset to understand its structure before performing data cleaning.
