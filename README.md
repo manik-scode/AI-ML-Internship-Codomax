@@ -23,7 +23,7 @@ This repository contains all the tasks completed during my AI & ML Internship at
 
 ### Day 2 - Python Basics
 
-## Topics Covered
+### Topics Covered
 - Variables
 - Data Types
 - Operators
@@ -31,18 +31,18 @@ This repository contains all the tasks completed during my AI & ML Internship at
 - Loops
 - Functions
 
-## Objective
+### Objective
 Understand the fundamentals of Python programming and implement simple programs using core Python concepts.
 
 More tasks will be added daily.
 
 ### Day 3 - NumPy Fundamentals
 
-## Objective
+### Objective
 
 The objective of this task is to understand the fundamentals of NumPy, including array creation, indexing, slicing, and mathematical operations. NumPy is a core library for numerical computing and forms the foundation for data analysis and machine learning.
 
-## Topics Covered
+### Topics Covered
 
 - Importing NumPy
 - Creating NumPy Arrays
@@ -52,11 +52,11 @@ The objective of this task is to understand the fundamentals of NumPy, including
 - Mathematical Operations
 - Statistical Functions
 
-## Files
+### Files
 
 - `numpy_basics.ipynb` – Jupyter Notebook containing NumPy examples and explanations.
 
-## Concepts Practiced
+### Concepts Practiced
 
 - Creating one-dimensional arrays
 - Accessing array elements using indexing
@@ -64,17 +64,17 @@ The objective of this task is to understand the fundamentals of NumPy, including
 - Performing element-wise mathematical operations
 - Calculating statistical values such as sum, mean, minimum, and maximum
 
-## Learning Outcome
+### Learning Outcome
 
 By completing this task, I gained practical experience working with NumPy arrays and learned how to perform numerical computations efficiently using Python.
 
 ### Day 4 - Student Score Dataset Exploration
 
-## Objective
+### Objective
 
 Load the Student Score dataset using Pandas and explore its structure before data preprocessing.
 
-## Topics Covered
+### Topics Covered
 
 - Importing Pandas
 - Loading CSV Dataset
@@ -86,11 +86,33 @@ Load the Student Score dataset using Pandas and explore its structure before dat
 - Missing Values
 - Duplicate Values
 
-## Files
+### Files
 
 - `Day-4_Pandas_Exploration.ipynb`
 - `student_scores.csv`
 
-## Learning Outcome
+### Learning Outcome
 
 Learned how to load and inspect a dataset using Pandas. Explored the dataset to understand its structure before performing data cleaning.
+
+### Day 5 - Data Cleaning
+
+### Objective
+
+Clean the Student Score dataset by handling missing values, removing duplicate records, and understanding dataset statistics.
+
+### Topics Covered
+
+- Missing Values
+- Handling Missing Data
+- Duplicate Records
+- Removing Duplicates
+- Statistical Summary
+
+### Files
+
+- `Day-5_data_cleaning.ipynb`
+
+### Learning Outcome
+
+Learned how to preprocess a dataset by cleaning missing values and duplicate records, making it suitable for visualization and machine learning.
