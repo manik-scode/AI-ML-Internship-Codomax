@@ -116,3 +116,24 @@ Clean the Student Score dataset by handling missing values, removing duplicate r
 ### Learning Outcome
 
 Learned how to preprocess a dataset by cleaning missing values and duplicate records, making it suitable for visualization and machine learning.
+
+### Day 6 - Data Visualization
+
+### Objective
+
+Visualize the Student Score dataset using Matplotlib.
+
+### Topics Covered
+
+- Scatter Plot
+- Bar Chart
+- Line Chart
+- Data Visualization using Matplotlib
+
+### Files
+
+- `03_data_visualization.ipynb`
+
+### Learning Outcome
+
+Learned how to visualize data using Matplotlib and understand patterns in the dataset before model training.
