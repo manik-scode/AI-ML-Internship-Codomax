@@ -132,8 +132,29 @@ Visualize the Student Score dataset using Matplotlib.
 
 ### Files
 
-- `03_data_visualization.ipynb`
+- `Day-6_data_visualization.ipynb`
 
 ### Learning Outcome
 
 Learned how to visualize data using Matplotlib and understand patterns in the dataset before model training.
+
+#### Day 7 - Machine Learning Basics
+
+### Objective
+
+Understand supervised learning and prepare the dataset using train-test split.
+
+### Topics Covered
+
+- Supervised Learning
+- Features and Target Variable
+- Train-Test Split
+- Preparing Data for Machine Learning
+
+### Files
+
+- `04_ml_basics.ipynb`
+
+### Learning Outcome
+
+Learned how to prepare a dataset for machine learning by selecting features, defining the target variable, and splitting the data into training and testing sets.
