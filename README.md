@@ -153,7 +153,7 @@ Understand supervised learning and prepare the dataset using train-test split.
 
 ### Files
 
-- `04_ml_basics.ipynb`
+- `Day-6_ml_basics.ipynb`
 
 ### Learning Outcome
 
